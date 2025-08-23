@@ -10,12 +10,6 @@ The clean, user-friendly interface showing the P2P network setup and chat functi
 ![P2P Chat Interface](screenshots/p2p-interface.png)
 *Initial application window with nickname setup*
 
-### Multi-Peer Network in Action
-Demonstration of a fully functional 3-peer mesh network with real-time messaging:
-
-![3-Peer Mesh Network](screenshots/3-peer-mesh.png)
-*Three peers (Mishka, Khushi, Mayeraa) connected in a mesh topology with message broadcasting*
-
 ### Network Topology View
 The peer list showing connected and known peers in the mesh network:
 
